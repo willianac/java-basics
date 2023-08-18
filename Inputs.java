@@ -12,7 +12,7 @@ class Inputs {
 
     String response = scanner.nextLine();
     System.out.println(response + ". Ok thats good!");
-
+    
     scanner.close();
   } 
 }
